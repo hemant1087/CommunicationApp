@@ -21,7 +21,7 @@ import android.widget.TextView;
  * 
  * This is an application to connect the server with the android client . and transfer text message between server and client
  * to use this code replace the ip address with your ip address 
- * for this you need to configure java socket at the server
+ *
  * */
 @SuppressWarnings("deprecation")
 public class AndroidClient extends Activity {
