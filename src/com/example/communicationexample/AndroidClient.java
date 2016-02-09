@@ -17,7 +17,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-
+/*
+ * 
+ * This is an application to connect the server with the android client . and transfer text message between server and client
+ * 
+ * */
 @SuppressWarnings("deprecation")
 public class AndroidClient extends Activity {
 	
